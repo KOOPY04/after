@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="&lt;frame&gt; 或 &lt;iframe&gt; 元素缺少名稱">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="連結缺少可辨別的名稱">
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,7 +64,7 @@
       <workItem from="1713103608516" duration="318000" />
       <workItem from="1713196840142" duration="581000" />
       <workItem from="1713197433074" duration="3362000" />
-      <workItem from="1713249505851" duration="3408000" />
+      <workItem from="1713249505851" duration="3800000" />
     </task>
     <task id="LOCAL-00001" summary="refresh">
       <option name="closed" value="true" />
@@ -99,7 +98,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713252222997</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="連結缺少可辨別的名稱">
+      <option name="closed" value="true" />
+      <created>1713252946384</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713252946384</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +128,7 @@
     <MESSAGE value="refresh" />
     <MESSAGE value="按鈕沒有可存取的名稱" />
     <MESSAGE value="&lt;frame&gt; 或 &lt;iframe&gt; 元素缺少名稱" />
-    <option name="LAST_COMMIT_MESSAGE" value="&lt;frame&gt; 或 &lt;iframe&gt; 元素缺少名稱" />
+    <MESSAGE value="連結缺少可辨別的名稱" />
+    <option name="LAST_COMMIT_MESSAGE" value="連結缺少可辨別的名稱" />
   </component>
 </project>
