@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="壓縮 CSS" />
+    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="webp">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <workItem from="1713103608516" duration="318000" />
       <workItem from="1713196840142" duration="581000" />
       <workItem from="1713197433074" duration="3362000" />
-      <workItem from="1713249505851" duration="14042000" />
+      <workItem from="1713249505851" duration="14399000" />
     </task>
     <task id="LOCAL-00001" summary="refresh">
       <option name="closed" value="true" />
@@ -232,7 +234,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713263869816</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="webp">
+      <option name="closed" value="true" />
+      <created>1713264286949</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1713264286949</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -269,6 +279,7 @@
     <MESSAGE value="lang" />
     <MESSAGE value="壓縮 JavaScript" />
     <MESSAGE value="壓縮 CSS" />
-    <option name="LAST_COMMIT_MESSAGE" value="壓縮 CSS" />
+    <MESSAGE value="webp" />
+    <option name="LAST_COMMIT_MESSAGE" value="webp" />
   </component>
 </project>
