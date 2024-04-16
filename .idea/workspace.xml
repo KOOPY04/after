@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="文件缺少中繼說明">
+    <list default="true" id="9718bef7-165d-4d1f-853c-4937605e14de" name="Changes" comment="提供 next-gen 格式的圖片">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +65,7 @@
       <workItem from="1713103608516" duration="318000" />
       <workItem from="1713196840142" duration="581000" />
       <workItem from="1713197433074" duration="3362000" />
-      <workItem from="1713249505851" duration="4910000" />
+      <workItem from="1713249505851" duration="6280000" />
     </task>
     <task id="LOCAL-00001" summary="refresh">
       <option name="closed" value="true" />
@@ -130,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713253700737</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="提供 next-gen 格式的圖片">
+      <option name="closed" value="true" />
+      <created>1713254638662</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1713254638662</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,6 +164,7 @@
     <MESSAGE value="連結缺少可辨別的名稱" />
     <MESSAGE value="&lt;html&gt; 元素缺少 [lang] 屬性" />
     <MESSAGE value="文件缺少中繼說明" />
-    <option name="LAST_COMMIT_MESSAGE" value="文件缺少中繼說明" />
+    <MESSAGE value="提供 next-gen 格式的圖片" />
+    <option name="LAST_COMMIT_MESSAGE" value="提供 next-gen 格式的圖片" />
   </component>
 </project>
